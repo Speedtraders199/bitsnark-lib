@@ -1,6 +1,6 @@
 ------------------------------ MODULE BitSnark ------------------------------
 (***************************************************************************)
-(* This module specifies the transaction flow in the bitSNARK protocol.    *)
+(* This module specifies the transaction flow in the BitSNARK protocol.    *)
 (***************************************************************************)
 
 EXTENDS Naturals
